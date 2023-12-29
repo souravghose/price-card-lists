@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Starter Plan",
+      "features": [
+        "Access to gym equipment",
+        "Basic fitness classes",
+        "Limited gym hours",
+        "No personal trainer sessions"
+      ],
+      "price": "$50"
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "features": [
+        "Full access to gym equipment",
+        "Varied fitness classes",
+        "Extended gym hours",
+        "Limited personal trainer sessions"
+      ],
+      "price": "$80"
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "features": [
+        "Full access to gym equipment",
+        "Unlimited fitness classes",
+        "24/7 gym access",
+        "Personal trainer sessions included"
+      ],
+      "price": "$120"
+    }
+  ]
+  
